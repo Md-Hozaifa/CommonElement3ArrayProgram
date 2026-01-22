@@ -1,5 +1,5 @@
 //This program is used to find out the common element from the three array.
-//But array shoud be sorted .
+//But array should be sorted .
 
 
 import java.util.ArrayList;
